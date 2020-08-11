@@ -1,4 +1,4 @@
-# Linkedin job ad analysis
+# Berlin Tech Job Market - LinkedIn job ad analysis
 
 ## Objective:
 Analyse the Berlin tech job market and evaluate how distinct job profiles for the following roles:
