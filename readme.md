@@ -17,7 +17,7 @@
 
 ## Structure:
 'job_data_preprocessing.ipynb'
-- collecting data from the postgres data base (see Part I)
+- collecting data from the postgres data base [see Part I](https://github.com/SabFrAlphin/project_job_skill_screener_SCRAPING)
 - Manually classifying the job ads based on their title into the three distinct categories
 - job_text and job_title language to be translated into english
 - text pre-processing
