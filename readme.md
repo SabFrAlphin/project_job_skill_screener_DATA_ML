@@ -1,10 +1,12 @@
 # Linkedin job ad analysis
 
 ## Objective:
-1) Analyse word clusters in job title and job text based on distinct job_class
+Analyse the Berlin tech job market and evaluate how distinct job profiles for the following roles:
 - Data Scientist
 - Data Analyst
 - Data Engineer
+
+1) Analyse word clusters in job title and job text based on distinct job_class
 
 2) Train a SVM machine learning model to recognize distinct job titles
 
